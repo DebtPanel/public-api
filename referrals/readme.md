@@ -12,4 +12,4 @@ information in regards to transforming any such items.
 Document | Description
 -------- | -----------
 [Complete Example](example.json) | A full json string showing all fields that we pass by default.
-[Basic Client Object](client-object.md) | The basic breakdown of the client object
+[Basic Client Object](object-client.md) | The basic breakdown of the client object
