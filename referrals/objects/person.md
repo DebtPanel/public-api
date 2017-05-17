@@ -33,8 +33,8 @@ lastName | String(100) | A string storing the last name of the person
 maidenName | String(100) | A string storing the maiden name of the person
 dateOfBirth | String(10) | A string holding the date of birth of the person in international format (YYYY-MM-DD)
 gender | String(1) | An single character string storing the gender of the person. Can be 'M', 'F' or null.
-address | Object [`<Address>`](address.md) | An integer storing the total value of outstanding debt to all creditors
-contactDetails | Object [`<ContactDetails>`](contact-details.md) | An integer storing the total value of outstanding debt to all creditors
+address | Object[`<Address>`](address.md) | An integer storing the total value of outstanding debt to all creditors
+contactDetails | Object[`<ContactDetails>`](contact-details.md) | An integer storing the total value of outstanding debt to all creditors
 residentialStatus | String(100) | A string storing the residential status of the person
 employmentStatus | String(100) | A string storing the employment status of the person
 occupation | String(200) | A string storing the occupation of the person
