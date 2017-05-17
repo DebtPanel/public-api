@@ -12,7 +12,7 @@ The basic Summary Object that is posted will comprise of the following propertie
     "income": 370000,
     "expenditure": 347268,
     "disposableIncome": 22731
-  }
+}
 ```
 
 ### Property Guide
@@ -42,10 +42,10 @@ On request we are able to apply the following transformations to given propertie
 
 Property | Standard Type | Transformed Type | Standard Example | Transformed Example
 --- | --- | --- | --- | ---
-creditors | Integer | Float<br />String | 4139495 | 41394.95<br />£41,394.95
-income | Integer | Float<br />String | 370000 | 3700.00<br />£3,700.00
-expenditure | Integer | Float<br />String | 347268 | 3472.68<br />£3,472.68
-disposableIncome | Integer | Float<br />String | 22731 | 227.31<br />£227.31
-properties | Integer | Float<br />String | 4139495 | 41394.95<br />£41,394.95
-vehicles | Integer | Float<br />String | 4139495 | 41394.95<br />£41,394.95
-assets | Integer | Float<br />String | 4139495 | 41394.95<br />£41,394.95
+creditors | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
+income | Integer | Float<br />String | 370000 | 3700.00<br />"£3,700.00"
+expenditure | Integer | Float<br />String | 347268 | 3472.68<br />"£3,472.68"
+disposableIncome | Integer | Float<br />String | 22731 | 227.31<br />"£227.31"
+properties | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
+vehicles | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
+assets | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
