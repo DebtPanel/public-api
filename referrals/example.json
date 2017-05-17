@@ -1,0 +1,517 @@
+{
+  "reference": "3560cb06506f718e10c5ea14",
+  "client": {
+    "firstName": "Simon",
+    "middleNames": null,
+    "lastName": "Skinner",
+    "maidenName": null,
+    "dateOfBirth": "1982-04-28",
+    "gender": "M",
+    "address": {
+      "address1": "Test",
+      "address2": null,
+      "address3": null,
+      "town": "test",
+      "county": "test",
+      "postalCode": "test",
+      "country": "England"
+    },
+    "contactDetails": {
+      "landline": "01204297397",
+      "mobile": "07402444653",
+      "email": "ss@beyondcomparison.com"
+    },
+    "residentialStatus": "Tenant - Private",
+    "employmentStatus": "Employed",
+    "occupation": "Director of IT",
+    "employer": "Beyond Comparison"
+  },
+  "partner": {
+    "firstName": "Claire",
+    "middleNames": null,
+    "lastName": "Skinner",
+    "maidenName": "Bradshaw",
+    "dateOfBirth": "1986-12-17",
+    "gender": "F",
+    "address": {
+      "address1": "Test",
+      "address2": null,
+      "address3": null,
+      "town": "test",
+      "county": "test",
+      "postalCode": "test",
+      "country": "England"
+    },
+    "contactDetails": {
+      "landline": "01204297397",
+      "mobile": "07457889465",
+      "email": "c.skinner.86@gmail.com"
+    },
+    "residentialStatus": "Tenant - Private",
+    "employmentStatus": "Employed",
+    "occupation": "Barmaid",
+    "employer": "Wetherspoons"
+  },
+  "dependants": {
+    "count": 1,
+    "datesOfBirth": [
+      "2007-03-11"
+    ]
+  },
+  "creditors": [
+    {
+      "reference": "92888371-bg",
+      "type": "Pay Day Loans",
+      "secured": false,
+      "creditor": "AtoB Loans Inc",
+      "source": "Manual Input",
+      "owner": "client",
+      "value": 812095,
+      "status": "active",
+      "note": null
+    },
+    {
+      "reference": "lg-142003",
+      "type": "Secured Loan",
+      "secured": true,
+      "creditor": "All Star Finance",
+      "source": "Manual Input",
+      "owner": "partner",
+      "value": 2650000,
+      "status": "active",
+      "note": null
+    },
+    {
+      "reference": "8327762",
+      "type": "Store Card",
+      "secured": true,
+      "creditor": "Littlewoods Storecard",
+      "source": "Manual Input",
+      "owner": "joint",
+      "value": 677400,
+      "status": "defaulted",
+      "note": null
+    }
+  ],
+  "properties": [
+    {
+      "address1": "123 Test Road",
+      "address2": null,
+      "address3": null,
+      "town": "TesterTon",
+      "county": "TestVille",
+      "postalCode": "TE7 5ER",
+      "propertyType": "Detached House",
+      "years": 8,
+      "months": 7,
+      "note": "Buy To Let",
+      "value": 11200000,
+      "owner": "joint"
+    }
+  ],
+  "vehicles": [
+    {
+      "registration": "S33 CLX",
+      "make": "Ford",
+      "model": "Focus",
+      "year": "2006",
+      "value": 120000,
+      "owner": "partner",
+      "note": "Car"
+    }
+  ],
+  "assets": [
+    {
+      "type": "Cash at Bank",
+      "value": 765000,
+      "owner": "client",
+      "note": ""
+    }
+  ],
+  "income": [
+    {
+      "name": "Clients Earnings (Net)",
+      "value": 210000,
+      "note": ""
+    },
+    {
+      "name": "Partners Earnings (Net)",
+      "value": 140000,
+      "note": ""
+    },
+    {
+      "name": "Other Earnings",
+      "value": 20000,
+      "note": "Gig money playing with a small local band"
+    },
+    {
+      "name": "Attendance Allowance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Child benefit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Council Tax Benefit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Disability Living Allowance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Personal Independence Payment (PIP)",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Child Tax Credit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Working Tax Credit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Housing Benefit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Incapacity Benefit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Income Support",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Industrial Disablement Benefit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Carers Allowance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Maternity Allowance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Job Seekers Allowance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Statutory Maternity Pay",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Statutory Sick Pay",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Bereavement Benefit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Universal Credit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Employment and Support Allowance (ESA)",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Other Benefit",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Clients Pension",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Partners Pension",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Other Pension",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Child Income Support",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Lodger Income",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Student Loan",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Student Grant",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Other",
+      "value": 0,
+      "note": ""
+    }
+  ],
+  "expenditure": [
+    {
+      "name": "Mortgage/Rent/B&L",
+      "value": 124900,
+      "note": ""
+    },
+    {
+      "id": "f98585ec53d7ec45554aa80f",
+      "name": "Secured Loan 1",
+      "value": 46500,
+      "note": ""
+    },
+    {
+      "name": "Secured Loan 2",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Endowment/life insurance",
+      "value": 4011,
+      "note": ""
+    },
+    {
+      "name": "Building & Contents insurance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Acc/sick/unemp insurance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Council Tax",
+      "value": 12458,
+      "note": ""
+    },
+    {
+      "name": "Factoring charges",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Gas",
+      "value": 7650,
+      "note": ""
+    },
+    {
+      "name": "Gas maintenance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Electricity",
+      "value": 11000,
+      "note": ""
+    },
+    {
+      "name": "Oil",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Car 1 – HP/PCP/CS payment",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Car 2 – HP/PCP/CS payment",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "TV licence",
+      "value": 1200,
+      "note": ""
+    },
+    {
+      "name": "Child maintenance / CSA",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Childcare (nursery/child minder)",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Water",
+      "value": 6800,
+      "note": ""
+    },
+    {
+      "name": "Home & Mobile phone",
+      "value": 14600,
+      "note": ""
+    },
+    {
+      "name": "Public transport (work/school/shopping etc.)",
+      "value": 3000,
+      "note": ""
+    },
+    {
+      "name": "Insurance",
+      "value": 12500,
+      "note": ""
+    },
+    {
+      "name": "Road Tax",
+      "value": 4900,
+      "note": ""
+    },
+    {
+      "name": "Fuel",
+      "value": 37500,
+      "note": ""
+    },
+    {
+      "name": "MOT & maintenance",
+      "value": 1750,
+      "note": ""
+    },
+    {
+      "name": "Breakdown cover",
+      "value": 500,
+      "note": ""
+    },
+    {
+      "name": "Parking & tolls",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Other car costs",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Food, toiletries, cleaning, newspapers, cigarettes",
+      "value": 26000,
+      "note": ""
+    },
+    {
+      "name": "Laundry and dry cleaning",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Clothing and footwear",
+      "value": 15000,
+      "note": ""
+    },
+    {
+      "name": "Nappies and baby items",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Pet food",
+      "value": 3000,
+      "note": ""
+    },
+    {
+      "name": "Health (dentist, optical, prescriptions, health insurance)",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Repairs/house maintenance",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Hairdressing",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Cable/Satellite TV, internet",
+      "value": 5200,
+      "note": ""
+    },
+    {
+      "name": "Rental - TV/white goods etc",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "School meals/meals at work",
+      "value": 2500,
+      "note": ""
+    },
+    {
+      "name": "Pocket money & school trips",
+      "value": 4000,
+      "note": ""
+    },
+    {
+      "name": "Hobbies (inc leisure/sport/gym etc)",
+      "value": 2300,
+      "note": ""
+    },
+    {
+      "name": "Pet insurance & vet bills",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "White goods – HP",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Union dues",
+      "value": 0,
+      "note": ""
+    },
+    {
+      "name": "Other",
+      "value": 0,
+      "note": ""
+    }
+  ],
+  "summary": {
+    "creditors": 4139495,
+    "income": 370000,
+    "expenditure": 347268,
+    "disposableIncome": 22731
+  }
+}
