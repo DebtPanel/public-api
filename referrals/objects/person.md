@@ -6,7 +6,7 @@ The basic Person Object that is posted will comprise of the following properties
 
 ### Example Object
 
-```javascript
+```json
 {
     "firstName": "Claire",
     "middleNames": null,
