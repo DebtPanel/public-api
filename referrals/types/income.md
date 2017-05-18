@@ -4,7 +4,7 @@
 
 The following table shows the Income types that we will send over to an External system. Also shown are our internal ID's that can be requested to match up in the External System.
 
-ID | Type
+DebtPanel ID | Type
 --- | ---
 e483bef4839fb091ddad9cec | Mortgage/Rent/B&L
 fed5eb9ae725baa00184446c | Secured Loan 1

@@ -21,7 +21,7 @@ The basic Asset Object that is posted will comprise of the following properties.
 
 Property | Type | Description
 --- | --- | ---
-type | String(255) | A string containing the type of asset this refers to
+type | String(255)[`<AssetType>`](../types/asset.md) | A string containing the type of asset this refers to
 value | Integer | An integer storing the amount spent on this asset item
 owner | String(10) | The owner of the asset. Can be either client, partner or joint
 note | String(4096) | A string containing an important note about this asset item

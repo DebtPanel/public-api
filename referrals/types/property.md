@@ -1,8 +1,8 @@
 # DebtPanel - Referral Guide
 
-## Expenditure Types
+## Property Types
 
-The following table shows the Expenditure types that we will send over to an External system. Also shown are our internal ID's that can be requested to match up in the External System.
+The following table shows the Property types that we will send over to an External system. Also shown are our internal ID's that can be requested to match up in the External System.
 
 DebtPanel ID | Type
 --- | ---

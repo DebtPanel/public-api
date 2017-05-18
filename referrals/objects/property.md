@@ -35,7 +35,7 @@ address3 | String(255) | A string containing third address line of the property
 town | String(150) | A string containing the town of the property
 county | String(100) | A string containing the county of the property
 postalCode | String(12) | A string containing the postcode of the property
-propertyType | String(100) | A string containing the type of property
+propertyType | String(100)[`<PropertyType>`](../types/property.md) | A string containing the type of property
 years | Integer | An integer showing how many years the property has been owned for
 months | Integer | An integer showing how many months the property has been owned for
 note | String(4096) | A string containing an important note about this property item

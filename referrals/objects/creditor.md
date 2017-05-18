@@ -26,7 +26,7 @@ The basic Creditor Object that is posted will comprise of the following properti
 Property | Type | Description
 --- | --- | ---
 reference | String(40) | A string containing the account number of the account at the creditor
-type | String(150) | A string containing the type of creditor this refers to
+type | String(150)[`<CreditorType>`](../types/creditor.md) | A string containing the type of creditor this refers to
 secured | Boolean | A boolean value showing if the credit is secured or not
 creditor | String(255) | A string containing the name of the creditor
 owner | String(10) | The owner of the credit. Can be either client, partner or joint
