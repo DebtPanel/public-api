@@ -30,3 +30,7 @@ Property | Standard Type | Transformed Type | Standard Example | Transformed Exa
 --- | --- | --- | --- | ---
 landline | String(11) | String(12)<br />String(13) | "01204297397" | "441204297397"<br />"+441204297397"
 mobile | String(11) | String(12)<br />String(13) | "07457889465" | "447457889465"<br />"+447457889465"
+
+#### Quick Links
+
+[:arrow_backward:](person.md) [:information_source:](../readme.md)

@@ -57,3 +57,7 @@ We are also able to transform the DebtPanel ID property into an ID that matches 
 Property | Standard Type | Transformed Type | Standard Example | Transformed Example
 --- | --- | --- | --- | ---
 id | String(24) | Integer | "f98585ec53d7ec45554aa80f" | 37
+
+#### Quick Links
+
+[:arrow_backward:](client.md) [:information_source:](../readme.md)

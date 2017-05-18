@@ -55,3 +55,8 @@ We are also able to transform the DebtPanel propertyType into an ID that matches
 Property | Standard Type | Transformed Type | Standard Example | Transformed Example
 --- | --- | --- | --- | ---
 propertyType | String(100) | Integer | "Detached House" | 4
+
+
+#### Quick Links
+
+[:arrow_backward:](client.md) [:information_source:](../readme.md)

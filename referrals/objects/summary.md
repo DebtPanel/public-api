@@ -49,3 +49,8 @@ disposableIncome | Integer | Float<br />String | 22731 | 227.31<br />"£227.31"
 properties | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
 vehicles | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
 assets | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
+
+
+#### Quick Links
+
+[:arrow_backward:](client.md) [:information_source:](../readme.md)

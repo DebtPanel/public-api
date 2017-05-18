@@ -21,3 +21,8 @@ Property | Type | Description
 --- | --- | ---
 count | Integer | An integer containing the number of dependants the client has
 datesOfBirth | Array`<String(10)>` | An array of strings, each string holds the date of birth of a dependant in international format (YYYY-MM-DD)
+
+
+#### Quick Links
+
+[:arrow_backward:](client.md) [:information_source:](../readme.md)

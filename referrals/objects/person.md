@@ -47,3 +47,8 @@ On request we are able to apply the following transformations to given propertie
 Property | Standard Type | Transformed Type | Standard Example | Transformed Example
 --- | --- | --- | --- | ---
 creditors | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
+
+
+#### Quick Links
+
+[:arrow_backward:](client.md) [:information_source:](../readme.md)

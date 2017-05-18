@@ -36,3 +36,7 @@ On request we are able to include the following properties inside this object.
 Property | Type | Description
 --- | --- | ---
 country | String(50) | A string containing the country of the address
+
+#### Quick Links
+
+[:arrow_backward:](person.md) [:information_source:](../readme.md)

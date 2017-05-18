@@ -14,3 +14,8 @@ aabb5ab5e6275e0c11323a7a | Owner - Shared
 cf17619631334543fcd4ea84 | HM Forces Accommodation
 dcb101343f68db9187eec88a | Living with parents
 937e37048acbee77cea7f2d7 | Living with Partner
+
+
+#### Quick Links
+
+[:information_source:](../readme.md)

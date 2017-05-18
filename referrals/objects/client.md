@@ -37,3 +37,8 @@ assets | Array[`<Asset>`](asset.md) | An array of Asset objects showing any asse
 income | Array[`<Income>`](income.md) | An array of Income objects showing all Income the client has
 expenditure | Array[`<Expenditure>`](expenditure.md) | An array of Expenditure objects showing all Expenditure the client has
 summary | Object[`<Summary>`](summary.md) | A Summary object showing a brief summary of the client's Income, Expenditure, Creditors and Disposable Income
+
+
+#### Quick Links
+
+[:information_source:](../readme.md)

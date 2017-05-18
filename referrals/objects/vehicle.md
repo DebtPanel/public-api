@@ -40,3 +40,8 @@ Property | Standard Type | Transformed Type | Standard Example | Transformed Exa
 --- | --- | --- | --- | ---
 year | String | Integer | "2006" | 2006
 value | Integer | Float<br />String | 6599 | 65.99<br />"£65.99"
+
+
+#### Quick Links
+
+[:arrow_backward:](client.md) [:information_source:](../readme.md)
