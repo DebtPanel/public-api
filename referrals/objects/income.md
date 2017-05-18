@@ -20,7 +20,7 @@ The basic Income Object that is posted will comprise of the following properties
 
 Property | Type | Description
 --- | --- | ---
-name | String(255) | A string containing the type of income this refers to
+name | String(255)[`<IncomeType>`](../types/income.md) | A string containing the type of income this refers to
 value | Integer | An integer storing the amount spent on this income item
 note | String(4096) | A string containing an important note about this income item
 

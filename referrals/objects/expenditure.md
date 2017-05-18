@@ -20,7 +20,7 @@ The basic Expenditure Object that is posted will comprise of the following prope
 
 Property | Type | Description
 --- | --- | ---
-name | String(255) | A string containing the type of expenditure this refers to
+name | String(255)[`<ExpenditureType>`](../types/expenditure.md) | A string containing the type of expenditure this refers to
 value | Integer | An integer storing the amount spent on this expenditure item
 note | String(4096) | A string containing an important note about this expenditure item
 
