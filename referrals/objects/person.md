@@ -42,14 +42,6 @@ employmentStatus | String(100)[`<EmploymentStatusType>`](../types/employment-sta
 occupation | String(200) | A string storing the occupation of the person
 employer | String(255) | A string storing the name of the person's employer
 
-### Available Transformations
-
-On request we are able to apply the following transformations to given properties.
-
-Property | Standard Type | Transformed Type | Standard Example | Transformed Example
---- | --- | --- | --- | ---
-creditors | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
-
 
 #### Quick Links
 
