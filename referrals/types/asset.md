@@ -8,12 +8,12 @@ The following table shows the Asset types that we will send over to an External 
 
 DebtPanel ID | Type
 --- | ---
-6bb232aa83160f8edf9aec45 | Pension
-710b6dff25e51c20d0884712 | Investment
-b49b029a31dd0a7801acee0f | Endowment
-8c7f02ce613e50aea3f19241 | Cash at Bank
-488febef05cba8f73df577b6 | Step Payment
-b5c097424461cd669b810fe6 | Other Asset
+c2f89be45040653bc7fba1e4 | Pension
+d9433843df5189ee4ba21b92 | Investment
+9ddf2902cb92d0b22869312b | Endowment
+6c02b7646c75eb3c64019d6d | Cash at Bank
+8a96ea7040c29cf082987cb4 | Step Payment
+db3bbd7734b7174e00d06b61 | Other Asset
 
 
 #### Quick Links
