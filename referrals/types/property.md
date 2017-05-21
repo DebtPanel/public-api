@@ -8,10 +8,10 @@ The following table shows the Property types that we will send over to an Extern
 
 DebtPanel ID | Type
 --- | ---
-e483bef4839fb091ddad9cec | Mortgage/Rent/B&L
-fed5eb9ae725baa00184446c | Secured Loan 1
-63896c6f07b6b55c6fd3049f | Secured Loan 2
-6e36d2e08d98cd902906b34b | Endowment/life insurance
+9bbed27a463771343e9d7149 | Semi Detached House
+a86d4d9dfb399e2c5ac5fe51 | Detatched House
+b542e8c75a64f30a9d263326 | Bungalow
+ff81284bb464ae22999f7d7c | Apartment
 
 #### Quick Links
 

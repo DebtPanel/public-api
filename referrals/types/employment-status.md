@@ -8,10 +8,9 @@ The following table shows the Employment Status types that we will send over to 
 
 DebtPanel ID | Type
 --- | ---
-e483bef4839fb091ddad9cec | Mortgage/Rent/B&L
-fed5eb9ae725baa00184446c | Secured Loan 1
-63896c6f07b6b55c6fd3049f | Secured Loan 2
-6e36d2e08d98cd902906b34b | Endowment/life insurance
+3685d5c560d6c77693644098 | Employed
+c0ab611b6012c0df6d56d655 | Unemployed
+2b42adafd2e7a9ac30473f19 | Self Employed
 
 #### Quick Links
 

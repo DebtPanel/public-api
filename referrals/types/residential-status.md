@@ -8,14 +8,14 @@ The following table shows the Residential Status types that we will send over to
 
 DebtPanel ID | Type
 --- | ---
-58df0a6a7a5be398726220c6 | Owner - Full
-aabb5ab5e6275e0c11323a7a | Owner - Shared
-6cc88cf4d4ff2c43d6a4b4fb | Tenant - Housing Association
-890a0cce0eb38f50cdff3f69 | Tenant - Private
-90be01a650c70a239dc36d68 | House Share
-cf17619631334543fcd4ea84 | HM Forces Accommodation
-dcb101343f68db9187eec88a | Living with parents
-937e37048acbee77cea7f2d7 | Living with Partner
+e53b45f025fb8df52e5b61c6 | Owner - Full
+cc150a5e91d6ef8430d9d920 | Owner - Shared
+aba77d6c2fe93ab954e9f032 | Tenant - Housing Association
+5dec148aa7d3b792fbcd0741 | Tenant - Private
+b9b86f892817200048d442ff | House Share
+464e4701e32a10f318b592f4 | HM Forces Accommodation
+c1c327ec1946b5d5ad46747f | Living with parents
+c9468972f012859618cb42d2 | Living with Partner
 
 
 #### Quick Links
