@@ -1,6 +1,7 @@
 {
   "reference": "3560cb06506f718e10c5ea14",
   "client": {
+    "title": "Mr",
     "firstName": "Simon",
     "middleNames": null,
     "lastName": "Skinner",
@@ -21,12 +22,14 @@
       "mobile": "07402444653",
       "email": "ss@beyondcomparison.com"
     },
+    "maritalStatus": "Married",
     "residentialStatus": "Tenant - Private",
     "employmentStatus": "Employed",
     "occupation": "Director of IT",
     "employer": "Beyond Comparison"
   },
   "partner": {
+    "title": "Mrs",
     "firstName": "Claire",
     "middleNames": null,
     "lastName": "Skinner",
@@ -47,6 +50,7 @@
       "mobile": "07457889465",
       "email": "c.skinner.86@gmail.com"
     },
+    "maritalStatus": "Married",
     "residentialStatus": "Tenant - Private",
     "employmentStatus": "Employed",
     "occupation": "Barmaid",
