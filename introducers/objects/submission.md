@@ -8,5 +8,5 @@
 
 Name | Type | Description | Required
 ---- | ---- | ----------- | --------
-lead | [Lead](#lead) |  | Yes
-partner | [Lead](#lead) |  | No
+lead | [Person](person.md) |  | Yes
+partner | [Person](person.md) |  | No

@@ -2,7 +2,7 @@
 
 # DebtPanel - Introducer Guide
 
-## Lead Object
+## Person Object
 
 
 
@@ -12,8 +12,8 @@ firstName | String() |  | Yes
 middleNames | String() |  | No
 lastName | String() |  | Yes
 maidenName | String() |  | No
-address | Object[`<Address>`](#address) |  | Yes
-contactDetails | Object[`<ContactDetails>`](#contactDetails) |  | Yes
+address | Object[`<Address>`](address.md) |  | Yes
+contactDetails | Object[`<ContactDetails>`](contact-details.md) |  | Yes
 dateOfBirth | String() |  | No
 gender | String() |  | No
 employmentStatus | String() |  | No

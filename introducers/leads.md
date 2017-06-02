@@ -20,7 +20,7 @@ for more information.
 
 Name | Located in | Description | Required | Object
 ---- | ---------- | ----------- | -------- | ----
-body | body | Main Lead to add | Yes | [Submission](#submission)
+body | body | Main Lead to add | Yes | [Submission](objects/submission.md)
 
 ### Responses
 
