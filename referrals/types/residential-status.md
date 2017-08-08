@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Residential Status Types
@@ -20,4 +18,4 @@ c9468972f012859618cb42d2 | Living with Partner
 
 #### Quick Links
 
-[:information_source:](../readme.md)
+[Home](../readme.md)

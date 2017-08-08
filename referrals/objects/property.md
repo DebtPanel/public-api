@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Property Object
@@ -61,4 +59,4 @@ propertyType | String(100) | Integer | "Detached House" | 4
 
 #### Quick Links
 
-[:arrow_backward:](client.md) [:information_source:](../readme.md)
+[Back](client.md) [Home](../readme.md)

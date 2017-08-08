@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Creditor Object
@@ -62,4 +60,4 @@ id | String(24) | Integer | "f98585ec53d7ec45554aa80f" | 37
 
 #### Quick Links
 
-[:arrow_backward:](client.md) [:information_source:](../readme.md)
+[Back](client.md) [Home](../readme.md)

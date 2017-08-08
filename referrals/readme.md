@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Introduction
@@ -52,7 +50,3 @@ Document | Description
 [Asset](types/asset.md) | The type of asset owned. e.g. 'Pension'
 [Income](types/income.md) | The type of income that is earned. e.g. 'Salary'
 [Expenditure](types/expenditure.md) | The type of expenditure. e.g. 'Mobile Phone Contract'
-
-#### Quick Links
-
-[:information_source:](../readme.md)

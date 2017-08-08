@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Marital Status Types
@@ -21,4 +19,4 @@ c271f1175526817a11ee3171 | Separated
 
 #### Quick Links
 
-[:information_source:](../readme.md)
+[Home](../readme.md)

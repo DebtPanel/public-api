@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Property Types
@@ -15,4 +13,4 @@ ff81284bb464ae22999f7d7c | Apartment
 
 #### Quick Links
 
-[:information_source:](../readme.md)
+[Home](../readme.md)

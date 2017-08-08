@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Summary Object
@@ -55,4 +53,4 @@ assets | Integer | Float<br />String | 4139495 | 41394.95<br />"£41,394.95"
 
 #### Quick Links
 
-[:arrow_backward:](client.md) [:information_source:](../readme.md)
+[Back](client.md) [Home](../readme.md)

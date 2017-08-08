@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Client Object
@@ -43,4 +41,4 @@ summary | Object[`<Summary>`](summary.md) | A Summary object showing a brief sum
 
 #### Quick Links
 
-[:information_source:](../readme.md)
+[Home](../readme.md)

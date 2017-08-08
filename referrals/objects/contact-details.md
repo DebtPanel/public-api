@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Contact Details Object
@@ -35,4 +33,4 @@ mobile | String(11) | String(12)<br />String(13) | "07457889465" | "447457889465
 
 #### Quick Links
 
-[:arrow_backward:](person.md) [:information_source:](../readme.md)
+[Back](person.md) [Home](../readme.md)

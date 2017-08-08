@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Person Object
@@ -49,4 +47,4 @@ employer | String(255) | A string storing the name of the person's employer
 
 #### Quick Links
 
-[:arrow_backward:](client.md) [:information_source:](../readme.md)
+[Back](client.md) [Home](../readme.md)

@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Vehicle Object
@@ -46,4 +44,4 @@ value | Integer | Float<br />String | 6599 | 65.99<br />"£65.99"
 
 #### Quick Links
 
-[:arrow_backward:](client.md) [:information_source:](../readme.md)
+[Back](client.md) [Home](../readme.md)

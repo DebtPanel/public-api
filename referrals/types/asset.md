@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Asset Types
@@ -18,4 +16,4 @@ db3bbd7734b7174e00d06b61 | Other Asset
 
 #### Quick Links
 
-[:information_source:](../readme.md)
+[Home](../readme.md)

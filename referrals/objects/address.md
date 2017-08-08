@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Address Object
@@ -41,4 +39,4 @@ country | String(50) | A string containing the country of the address
 
 #### Quick Links
 
-[:arrow_backward:](person.md) [:information_source:](../readme.md)
+[Back](person.md) [Home](../readme.md)

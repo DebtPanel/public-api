@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Creditor Types
@@ -30,4 +28,4 @@ aad9d4ca7052558724c1a605 | Varying Subscription
 
 #### Quick Links
 
-[:information_source:](../readme.md)
+[Home](../readme.md)

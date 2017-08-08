@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Employment Status Types
@@ -14,4 +12,4 @@ c0ab611b6012c0df6d56d655 | Unemployed
 
 #### Quick Links
 
-[:information_source:](../readme.md)
+[Home](../readme.md)

@@ -1,5 +1,3 @@
-![](https://s3.eu-west-2.amazonaws.com/cdn.debtpanel.co.uk/images/green-white.jpg)
-
 # DebtPanel - Referral Guide
 
 ## Income Types
@@ -43,4 +41,4 @@ ce104eefe9dd5f3ce6a564cb | Student Grant
 
 #### Quick Links
 
-[:information_source:](../readme.md)
+[Home](../readme.md)
