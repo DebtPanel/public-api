@@ -97,6 +97,26 @@
       "note": null
     }
   ],
+  "documents": [
+    {
+      "id": "5dba4e684c2fba1a86174542",
+      "type": "Bank Statements",
+      "documentLink": "bank-statement-bank-statement.txt",
+      "encodedDocument": "QmFuayBTdGF0ZW1lbnQ="
+    },
+    {
+      "id": "aad111e4df1017bce1f6b72f",
+      "type": "Wage Slips",
+      "documentLink": "wage-slip-wage-slip-1.txt",
+      "encodedDocument": "V2FnZSBTbGlwIDE="
+    },
+    {
+      "id": "aad111e4df1017bce1f6b72f",
+      "type": "Wage Slips",
+      "documentLink": "wage-slip-wage-slip-2.txt",
+      "encodedDocument": "V2FnZSBTbGlwIDI="
+    }
+  ],
   "properties": [
     {
       "address1": "123 Test Road",
