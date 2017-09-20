@@ -13,6 +13,7 @@ The basic Client Object that is posted will comprise of the following properties
   "partner": {  },
   "dependants": {  },
   "creditors": [  ],
+  "documents": [  ],
   "properties": [  ],
   "vehicles": [  ],
   "assets": [  ],
@@ -31,6 +32,7 @@ client | Object[`<Person>`](person.md) | A Person object holding all details of 
 partner | Object[`<Person>`](person.md) | A Person object holding all details of the partner of the client being submitted
 dependants | Object[`<Dependant>`](dependant.md) | A Dependant object holding a count and Dates of Birth for any dependants under 18 years old
 creditors | Array[`<Creditor>`](creditor.md) | An array of Creditor objects showing each creditor the client owes money to and the status of that creditor
+documents | Array[`<Document>`](document.md) | An array of Documents that support the case being transferred
 properties | Array[`<Property>`](property.md) | An array of Property objects showing all properties owned by the client
 vehicles | Array[`<Vehicle>`](vehicle.md) | An array of Vehicle objects showing all vehicles owned by the client
 assets | Array[`<Asset>`](asset.md) | An array of Asset objects showing any assets the client may have that are not already listed in other categories

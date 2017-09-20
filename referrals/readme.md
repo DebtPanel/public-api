@@ -46,6 +46,7 @@ Document | Description
 [Residential Status](types/residential-status.md) | The residential status of a person. e.g. 'Living With Parents'
 [Employment Status](types/employment-status.md) | The employment status of a person. e.g. 'Self Employed'
 [Creditor](types/creditor.md) | The type of creditor that is listed. e.g. 'Pay Day Loan'
+[Document](types/document.md) | The type of document transferred. e.g. 'Passport Photo'
 [Property](types/property.md) | The type of property owned. e.g. 'Semi-Detached'
 [Asset](types/asset.md) | The type of asset owned. e.g. 'Pension'
 [Income](types/income.md) | The type of income that is earned. e.g. 'Salary'
